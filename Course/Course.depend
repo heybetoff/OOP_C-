@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1705253040 source:c:\users\user\desktop\oop labs\course\course.cpp
+	"Course.h"
+	<iostream>
+
+1705324569 c:\users\user\desktop\oop labs\course\course.h
+	<iostream>
+	<vector>
+	<string>
+	<stdexcept>
+
+1705254913 source:c:\users\user\desktop\oop labs\course\main.cpp
+	"Course.h"
+	<iostream>
+

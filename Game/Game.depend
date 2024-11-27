@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1705238595 source:c:\users\user\desktop\oop labs\game\main.cpp
+	"Game.h"
+	<iostream>
+
+1705238416 source:c:\users\user\desktop\oop labs\game\game.cpp
+	"Game.h"
+
+1705238408 c:\users\user\desktop\oop labs\game\game.h
+	<iostream>
+	<vector>
+	<cmath>
+	<exception>
+
